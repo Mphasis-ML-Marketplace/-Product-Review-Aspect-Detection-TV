@@ -1,0 +1,49 @@
+{
+ "review": "Very good COLOR REPRODUCTION, which is my FIRST PRIORITY. A very similar, but other maker's TV went back due to image flaws ~~~ it had pixilization in areas of fast motion ... this one has none. It is easy with this model to guess resolution, just by image clarity per channel.  The DVD player is a definite bonus and works well (so far).  The sound is as good as can be expected from these sized speakers -- very tinny; but this can be fixed with a good quality sound bar.  I'm using it 100% in 12V mode in my little solar powered RV in the woods, and draws under 48 max Watts ... a good thing for a TV powered by the sun.  Overall --- A keeper here, and hope yours will be the same.",
+ "topics": [
+  {
+   "aspect": {
+    "picture quality": 0.488627386965811
+   },
+   "sentence": "good color reproduction priority"
+  },
+  {
+   "aspect": {
+    "picture quality": 0.4221002140534719,
+    "purchase": 0.3175384430996197
+   },
+   "sentence": "similar maker s tv go image flaw pixilization area fast motion"
+  },
+  {
+   "aspect": {
+    "overall": 0.36336622688082176
+   },
+   "sentence": "easy model guess resolution image clarity channel"
+  },
+  {
+   "aspect": {
+    "connectivity": 0.6809691606771704
+   },
+   "sentence": "dvd player definite bonus work far"
+  },
+  {
+   "aspect": {
+    "sound": 0.7286985828839295
+   },
+   "sentence": "sound good expect sized speaker tinny fix good quality sound bar"
+  },
+  {
+   "aspect": {
+    "installation": 0.3835002193487568,
+    "picture quality": 0.3404919090010148
+   },
+   "sentence": "v mode little solar power rv wood draw max watts good thing tv power sun"
+  },
+  {
+   "aspect": {
+    "service": 0.4145885849016986
+   },
+   "sentence": "overall keeper hope"
+  }
+ ]
+}
